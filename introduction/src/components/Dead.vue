@@ -3,3 +3,4 @@
     <p>This is quite literally a dead view</p>
   </div>
 </template>
+

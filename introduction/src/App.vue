@@ -10,6 +10,10 @@
       <IfElseComponent/>
 
       <Challenge/>
+      
+      <ForComponent/>
+
+      <OnComponent/>
     </article>
   </main>
 </template>
@@ -19,4 +23,6 @@
   import ModelComponent from "./components/ModelComponent.vue";
   import IfElseComponent from "./components/IfElseComponent.vue";
   import Challenge from "./components/Challenge.vue";
+  import ForComponent from "./components/ForComponent.vue";
+  import OnComponent from "./components/OnComponent.vue";
 </script>

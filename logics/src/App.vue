@@ -4,12 +4,21 @@
 
     <article class="space-y-4">
 
-      <ColorComponent/>
+      <ColourComponent/>
       
+      <CommentComponent/>
+
+      <ChallengeFormComponent/>
+
+      <ComputedComponent/>
+
     </article>
   </main>
 </template>
 
 <script setup>
-  import ColorComponent from "./components/ColorComponent.vue";
+  import ColourComponent from "./components/ColourComponent.vue";
+  import CommentComponent from "./components/CommentComponent.vue";
+  import ChallengeFormComponent from "./components/ChallengeFormComponent.vue";
+  import ComputedComponent from "./components/ComputedComponent.vue";
 </script>

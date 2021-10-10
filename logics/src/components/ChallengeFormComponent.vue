@@ -29,7 +29,6 @@
     },
     methods: {
       // Create a method for the form submit
-      
     }
   }
 </script>

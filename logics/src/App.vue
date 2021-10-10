@@ -12,6 +12,8 @@
 
       <ComputedComponent/>
 
+      <WatchChallengeComponent/>
+
     </article>
   </main>
 </template>
@@ -21,4 +23,5 @@
   import CommentComponent from "./components/CommentComponent.vue";
   import ChallengeFormComponent from "./components/ChallengeFormComponent.vue";
   import ComputedComponent from "./components/ComputedComponent.vue";
+  import WatchChallengeComponent from "./components/WatchChallengeComponent.vue";
 </script>
